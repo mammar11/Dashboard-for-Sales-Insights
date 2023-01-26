@@ -1,7 +1,7 @@
 # Dashboard-for-Sales-Insights
 A dashboard created using Power BI to display sales insights for a company that supplies electrical appliances would likely include a variety of visualizations and data points to provide a comprehensive overview of the company's sales performance.
 
-######Some key elements that could be included in the dashboard are:
+####Some key elements that could be included in the dashboard are:
 
 ->A line chart that shows the overall trend of sales over time, possibly broken down by different product categories, regions or sales channels.
 ->A bar chart that compares the performance of different products or product categories.
